@@ -1,0 +1,15 @@
+#carouselExampleSlidesOnly .row{
+    background-color: #FAE6E5;
+    border-radius: 15px;
+    
+    padding-left: 100px ;
+    padding-top: 10px ;
+}
+.price-sec{
+ color: #FF3C91;
+}
+.buy-btn {
+    background-color: #FF3C91;
+    color: white;
+
+}

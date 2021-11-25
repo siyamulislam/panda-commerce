@@ -1,15 +1,64 @@
 #carouselExampleSlidesOnly .row{
     background-color: #FAE6E5;
-    border-radius: 15px;
-    
-    padding-left: 100px ;
-    padding-top: 10px ;
+    border-radius: 15px;  
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .price-sec{
- color: #FF3C91;
+ color: #DB185D;
 }
 .buy-btn {
-    background-color: #FF3C91;
+    background-image: linear-gradient(to bottom, #ED4589 0%,#EA1D69 100%);
     color: white;
-
+    border-radius: 5px;
+    border: none;
+    padding: 9px, 25px;
+    cursor: pointer;
+}
+ .container{
+    margin-bottom: 30px ;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin: 10PX 0px;
+}
+.cat1{
+background-image: linear-gradient(to right, #ED932C 0%, #F2C41A 100%  );
+}
+.cat2{
+    background-image: linear-gradient(to top, #E91C68 0%, #EC488A 100%  );
+}
+.cat3{
+    background-image: linear-gradient(to left, #3416F4 0%, #4073FD 100%  );
+}
+.catt h2{
+    color: white;
+}
+.catt img{
+    width: 150px;
+}
+   .buy-btn2 {
+    background-image: linear-gradient(to bottom, #ED4589 0%,#EA1D69 100%);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 5px, 12px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+}
+#Subscribe{
+    background-color: #FAE6E5;
+    border-radius: 10px;
+    height: 320px;
+}
+.subs-btn{
+    background-image: linear-gradient(to bottom, #ED4589 0%,#EA1D69 100%);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 30px;
+    margin-top: 10px;
 }
